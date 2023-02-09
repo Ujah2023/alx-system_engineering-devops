@@ -1,1 +1,1 @@
-cd ~  changes the working directory to the user’s home directy
+ls -l displays current directory contents in a long format
