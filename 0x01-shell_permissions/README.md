@@ -1,7 +1,3 @@
-chmod 007 hello sets the permission to the file hello as follows:
+chmod 753 hello sets the mode of the file hello to this:
 
-Owner: no permission at all
-
-Group: no permission at all
-
-Other users: all the permissions
+-rwxr-x-wx
