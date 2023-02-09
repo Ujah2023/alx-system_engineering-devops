@@ -1,1 +1,1 @@
-chown betty  changes the owner of the file hello to the user betty
+chown changes the owner of the file hello to the user betty
