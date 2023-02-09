@@ -1,1 +1,1 @@
-touch hello creates an empty file called hello
+chmod u+x hello  execute permission to the owner of the file hello
