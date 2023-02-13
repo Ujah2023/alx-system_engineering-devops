@@ -1,1 +1,1 @@
-sort | uniq -u takes a list of words as input and prints only words that appear exactly once  
+grep -i "root" /etc/passwd displays lines containing the pattern “root” from the file /etc/passwd  
