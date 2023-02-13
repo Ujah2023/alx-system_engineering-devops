@@ -1,1 +1,1 @@
-tr "A" "Z" | tr "c" "e" replaces all characters A and c from input to Z and e respectively    
+tr -d "Cc"  removes all letters c and C from input    
