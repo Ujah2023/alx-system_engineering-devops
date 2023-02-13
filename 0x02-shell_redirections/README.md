@@ -1,1 +1,1 @@
-tail /etc/passwd displays the last 10 lines of /etc/passwd 
+head /etc/passwd /etc/passwd displays the first 10 lines of /etc/passwd 
