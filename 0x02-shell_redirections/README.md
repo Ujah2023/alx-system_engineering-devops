@@ -1,1 +1,1 @@
-head /etc/passwd /etc/passwd displays the first 10 lines of /etc/passwd 
+head -3 iacta | tail -1 displays the third line of the file iacta 
