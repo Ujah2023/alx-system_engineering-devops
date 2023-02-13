@@ -1,1 +1,1 @@
-ls -la > ls_cwd_content writes into the file ls_cwd_content the result of the command ls -la  
+tail -n 1 < iacta >> iacta duplicates the last line of the file iacta  
