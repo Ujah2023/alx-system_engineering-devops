@@ -1,1 +1,1 @@
-find . -type d -not -name '.' | wc -l  counts the number of directories and sub-directories in the current directory  
+ls -t1 | head displays the 10 newest files in the current directory  
