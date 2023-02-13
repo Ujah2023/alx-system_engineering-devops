@@ -1,4 +1,4 @@
-find -type f -name "*.gif" | rev | cut -d "/" -f 1 | cut -d '.' 2- | rev | LC_ALL=C sort -f lists all the files with a .gif extension in the current directory and all its sub-directories.
+find -type f -name "*.git" | rev | cut -d "/" -f 1 | cut -d '.' 2- | rev | LC_ALL=C sort -f lists all the files with a .gif extension in the current directory and all its sub-directories.
 
 Hidden files should be listed
 
