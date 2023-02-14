@@ -1,5 +1,11 @@
-echo $((2#BINARY))  converts a number from base 2 to base 10
+echo {a..z}{a..z} | tr " " "\n" | grep -v "oo" prints all possible combinations of two letters, except oo
 
-The number in base 2 is stored in the environment variable BINARY
+Letters are lower cases, from a to z
 
-The script should display the number in base 10, followed by a new line
+One combination per line
+
+The output should be alpha ordered, starting with aa
+
+Do not print oo
+
+Your script file should contain maximum 64 characters
