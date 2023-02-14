@@ -1,4 +1,4 @@
-BEST="School" creates a new local variable
+export BEST= "School" reates a new global variable
 
 Name: BEST
 
