@@ -1,5 +1,3 @@
-echo $((2#$BEST School))  creates a new global variable
+printf "%.2f" $NUM | sort  prints a number with two decimal places, followed by a new line
 
-Name: BEST
-
-Value: School
+The number will be stored in the environment variable NUM
