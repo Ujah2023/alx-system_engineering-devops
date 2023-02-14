@@ -1,1 +1,5 @@
-perl -lne 'print if $. % 2 ==1'  prints every other line from the input, starting with the first line
+echo $((2#$BINARY)) converts a number from base 2 to base 10
+
+The number in base 2 is stored in the environment variable BINARY
+
+The script should display the number in base 10, followed by a new line
