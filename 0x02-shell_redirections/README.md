@@ -1,1 +1,1 @@
-grep -i "root" -A 3 /etc/passwd displays lines containing the pattern “root” and 3 lines after them in the file /etc/passwd
+echo "Best School" > \\\*\\\\"'\"Best School\"\\'"\\\\\*\$\\\?\\\*\\\*\\\*\\\*\\\*\:\)  creates a file named exactly \*\\'"Best School"\'\\*$\?\*\*\*\*\*:) containing the text Best School ending by a new line
